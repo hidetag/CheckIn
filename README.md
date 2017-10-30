@@ -4,7 +4,7 @@
 说干就干，我开始在登录界面进行抓包：
 ------
 
-<img src="art/" alt="Expand to collapse animation" width="216px"/>
+<img src="art/1498346-790b1b11dce7c313.png" alt="Expand to collapse animation"/>
 
 从图上可以发现：
 
