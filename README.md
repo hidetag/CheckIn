@@ -143,5 +143,7 @@
 ---
 
 #### 联系我
-> zhuxianlixin#gmail.com
-> http://www.jianshu.com/u/41ca3bf3ac92
+> 
+ - <zhuxianlixin@gmail.com>
+ - [简书](http://www.jianshu.com/u/41ca3bf3ac92)
+
