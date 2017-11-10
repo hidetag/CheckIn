@@ -39,7 +39,10 @@ captures/
 .idea/gradle.xml
 .idea/dictionaries
 .idea/libraries
+<<<<<<< HEAD
 .idea/
+=======
+>>>>>>> 82dc9646a1f8d11f940e274092286ff98ccc2bcd
 
 # Keystore files
 *.jks
